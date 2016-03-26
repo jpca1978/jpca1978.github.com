@@ -3,8 +3,8 @@ name: Juan P. Correa
 bio: 'Innovando el envejecimiento a través de la tecnología, entusiata del cohausing y caminante de fin de semana'
 
 # if it's an external image, update below for true
-external-image: false
-picture: 'assets/images/profile.jpg'
+external-image: true
+picture: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAATcAAAAJGQ5NGY0MjYxLWQwNDctNGRmMC1hYTVmLTVjNmI0MDA0OTgzOQ.jpg'
 
 #url: https://koppl.in/indigo
 your url: jpca1978.github.io
