@@ -3,45 +3,16 @@ title: About
 layout: page
 permalink: /about/index.html
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAATcAAAAJGQ5NGY0MjYxLWQwNDctNGRmMC1hYTVmLTVjNmI0MDA0OTgzOQ.jpg)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a humble but effective leader. As a manager I'm more a driver of tasks than a decision holder. I engage through conviction and empathy rather than persuasion and pressure. As a teammate I put myself in the other person's shoes. I'm constantly looking for a balance to get the job done</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I enjoy planning and being part of development of business that deal with the following questions:</p>
 
-<h2>Skills</h2>
+- How to live better with a longer life expectancy?
+- How to deal with the technical, historical and economic literacy?
+- How to empower people to take better decisions about their well being?
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+In InfoElder we believe people with age-related impairments should still have the possibility of making choices about their well-being.
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
