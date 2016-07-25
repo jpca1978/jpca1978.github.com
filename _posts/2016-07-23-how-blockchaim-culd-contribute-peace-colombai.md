@@ -1,12 +1,12 @@
 ---
 title: 'How blockchain could contribute to the peace process in Colombia'
 layout: post
-date: '2016-01-23 22:10'
+date: '2016-07-23 22:10'
 tag: jekyll
 img: indigo/indigo.png
 projects: true
 description: 'A solution to tackling the lack of a reliable system that guarantees rural land ownership rights in Colombia is the use of blockchain technology'
-tags: []
+tags: colombia, blockchain
 category: 
 ---
 
