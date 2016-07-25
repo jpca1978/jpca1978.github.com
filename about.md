@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: /about/index.html
 ---
-![perfil](jpca1978.github.io/assets/images/Captura de pantalla 2016-07-25 a las 18.02.38.png)
+![perfil](http://jpca1978.github.io/assets/images/perfil2.png)
 <p>I'm a humble but effective leader. As a manager I'm more a driver of tasks than a decision holder. I engage through conviction and empathy rather than persuasion and pressure. As a teammate I put myself in the other person's shoes. I'm constantly looking for a balance to get the job done</p>
 
 <p>I enjoy planning and being part of development of business that deal with the following questions:</p>
