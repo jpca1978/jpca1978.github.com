@@ -2,12 +2,12 @@
 title: 'How blockchain could contribute to the peace process in Colombia'
 layout: post
 date: '2016-07-23 22:10'
-tag: colombia blockchain
+tag: 'colombia blockchain'
 img: indigo/indigo.png
 projects: true
 description: 'A solution to tackling the lack of a reliable system that guarantees rural land ownership rights in Colombia is the use of blockchain technology'
-tags: colombia, blockchain
-category: 
+tags: 'colombia, blockchain'
+category: null
 ---
 
 In 2007, I left Colombia, my home country, with a feeling of helplessness about the seemingly endless conflict. Now, with the peace process and the first agreements between the FARC and the government, it seems that we can expect a better future for the new generations of Colombians. Even though many Colombians are still skeptical about the peace process, we know that the future depends on the execution of a plan where all members of the society can participate. Rural land ownership rights is one of the many historical unsolved issues in Colombia. This problem is one of the causes and an effects of conflict in Colombia.  A solution to tackling the lack of a reliable system that guarantees rural land ownership rights in Colombia is the use of blockchain technology.
@@ -57,7 +57,7 @@ Those to whom  I have suggested the idea of a blockchain titling system for Colo
 
 We are a group of people that would like to explore a blockchain land titling project  in Colombia, and we are looking for the support of the blockchain and cryptocurrency community to establish a roadmap that can allow as to initiate a negotiation with the Colombian authorities.
 
-If you are interested in participating in this project or being a part of the discussion, you can ask to [join the Slack team](https://jpcorrea.typeform.com/to/cWN32T) or by upvoting this post. 
+If you are interested in participating in this project or being a part of the discussion, you can ask to [join the Slack team](https://jpcorrea.typeform.com/to/cWN32T) or by [upvoting this project](https://steemit.com/startups/@jpca78/give-peace-a-heart-rural-land-register-for-the-peace-in-colombia).
 
 
 *Thanks to my wife [Reetta](https://www.linkedin.com/in/reettas) for her support and editing this document.*
