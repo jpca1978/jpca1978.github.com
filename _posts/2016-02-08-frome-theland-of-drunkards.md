@@ -1,11 +1,9 @@
 ---
-date: '2016-01-23 22:10'
+date: '2016-08-02 22:10'
 description: 'This is a simple and minimalist template for Jekyll for those who likes to eat noodles.'
 img: indigo/indigo.png
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 layout: post
-projects: true
-tag: jekyll
+tag: national identity
 title: 'Frome the land of drunkards'
 tags: []
 category: 
