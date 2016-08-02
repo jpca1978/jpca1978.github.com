@@ -3,6 +3,7 @@ date: '2016-08-02 22:10'
 description: 'This is a simple and minimalist template for Jekyll for those who likes to eat noodles.'
 img: indigo/indigo.png
 layout: post
+blog: true
 tag: national identity
 title: 'Frome the land of drunkards'
 tags: []
