@@ -1,7 +1,6 @@
 ---
 date: '2016-08-02 22:10'
-description: 'This is a simple and minimalist template for Jekyll for those who likes to eat noodles.'
-img: indigo/indigo.png
+description: 'Knowing where you are from might be important but for me it is more important to try to be authentic, being aware that my values and culture depend on the context which I decide to be part of.'
 layout: post
 blog: true
 tag: national identity
