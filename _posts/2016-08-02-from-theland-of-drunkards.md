@@ -4,7 +4,7 @@ description: 'Knowing where you are from might be important but for me it is mor
 layout: post
 blog: true
 tag: national identity
-title: 'Frome the land of drunkards'
+title: 'From the land of drunkards'
 tags: []
 category: 
 ---
