@@ -17,7 +17,7 @@ category:
 
 Colombia did not have a reliable rural land register until the arrival of blockchain technology back in 2016. At that time it was impossible to think that institutions like notaries and real estate agencies could be changed for digital algorithms. It is curious that this revolutionary idea that today allows us to register and trade real estate assets both locally and across borders, without the bureaucratic pains of the past, has emerged in a country more known for its troubles with guerrillas and narcotraffickers than for the development  technological solutions. But the peace agreements that end more than 50 years of conflict between leftist guerrillas and government military forces back in 2016 were the trigger to consolidate a vision of new government infrastructure for the peace in Colombia, in an era of new technological resources. At the same time, skilled Colombian professionals forced to move abroad for a better future found in this opportunity the chance to apply their knowledge to rebuild the state infrastructures and experiment with state-of-the-art technologies.
 
-As @DavidShrier, Managing Director of MIT Connection Science, said 10 years ago as a mentor of the startup:
+As [@DavidShrier](https://twitter.com/davidshrier?lang=ca), Managing Director of MIT Connection Science, said 10 years ago as a mentor of the startup:
 
 > “This idea couldn't happen in the Silicon Valley, just because the market fit was more suitable in Colombia or other countries where they still don't have a reliable solution of real estate titulation. So I will be excited to see how this concept could be applied in the rest of the world”
 
