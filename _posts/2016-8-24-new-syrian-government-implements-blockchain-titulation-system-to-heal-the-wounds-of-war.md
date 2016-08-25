@@ -38,4 +38,4 @@ Thanks to the peace agreements in Syria, Coland System has been assigned to rest
 
 We are a group of people that believe that blockchain technologies can enable a more secure, transparent and optimal way to register land property rights in countries with unreliable systems like Colombia.
 
-If you are interested in participating in this project or being a part of the discussion, you can ask to [join the Slack team](https://jpcorrea.typeform.com/to/cWN32T "join the Slack team") or by [upvoting this project](http://https://steemit.com/startups/@jpca78/give-peace-a-heart-rural-land-register-for-the-peace-in-colombia "upvoting this project").
+If you are interested in participating in this project or being a part of the discussion, you can ask to [join the Slack team](https://jpcorrea.typeform.com/to/cWN32T "join the Slack team") or by [upvoting this project](https://steemit.com/startups/@jpca78/give-peace-a-heart-rural-land-register-for-the-peace-in-colombia "upvoting this project").
