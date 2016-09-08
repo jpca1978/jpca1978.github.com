@@ -57,7 +57,7 @@ Those to whom  I have suggested the idea of a blockchain titling system for Colo
 
 We are a group of people that would like to explore a blockchain land titling project  in Colombia, and we are looking for the support of the blockchain and cryptocurrency community to establish a roadmap that can allow as to initiate a negotiation with the Colombian authorities.
 
-If you are interested in participating in this project or being a part of the discussion, you can ask to [join the Slack team](https://jpcorrea.typeform.com/to/cWN32T) or by [upvoting this project](https://steemit.com/startups/@jpca78/give-peace-a-heart-rural-land-register-for-the-peace-in-colombia).
+If you are interested in participating in this project or being a part of the discussion, you can ask to [join the Slack team](https://jpcorrea.typeform.com/to/cWN32T) or by [upvoting this project](https://hack.ether.camp/#/idea/rural-land-register-for-peace-in-colombia).
 
 
 *Thanks to my wife [Reetta](https://www.linkedin.com/in/reettas) for her support and editing this document.*
