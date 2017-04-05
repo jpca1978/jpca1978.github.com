@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/chaman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jp.ca78.me
+  * I am chaman (https://keybase.io/chaman) on keybase.
+  * I have a public key with fingerprint 5D48 57F3 3B3D 24CC 6F4F  4298 95AE 1E5F F327 5FC5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017db8d60e117b11e0f5e20e028e48063ac4d9bb69d9f7c2a2ddc6ee671cecf69d0a",
+            "fingerprint": "5d4857f33b3d24cc6f4f429895ae1e5ff3275fc5",
+            "host": "keybase.io",
+            "key_id": "95ae1e5ff3275fc5",
+            "kid": "01017db8d60e117b11e0f5e20e028e48063ac4d9bb69d9f7c2a2ddc6ee671cecf69d0a",
+            "uid": "876d522bcbfdf20b432d466838f3f019",
+            "username": "chaman"
+        },
+        "service": {
+            "hostname": "jp.ca78.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1491386103,
+    "expire_in": 157680000,
+    "prev": "1fb71cff268b45447c7ed6144abafa137af29c9f20068f38a9c06894b430a5c6",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSFRBGF67aZa1UA9dSOJAPsS2zZwz57ZEdiFKKwoqu7CwzZmLnsyz
+29njapkVRVZQRGV0gSKjHpIgCotMtBQpUyqMkjQjiKDCLhBd7II1R+qtx+Zl5v/n
++775vp9pzRoayExbWjAHnQgf+ZbW0Xy4NLDmZdPXCsmK081SpEIqZoMb20hZ0osV
+21SKSAACqFPLoBpgEOoWhAxwlcmAAdlgyACaggmipmVpJjW5TmQsU0o0xjQdEka4
+aAMshSRuO4XMTbi24wlZlSJD1bmiWAqVESEaRxzJpmGqmEGmcq7IusqJKohF8aTP
+EOYsnGRhOy56oogN2vsH/j/7Lh2UM3SNqrJsEYtTLgMLKTJFmmYoBlc4gKYPTDLX
+wSVMoEkRLsGOVBmSRC9lE+aP1c/x535DIkywboRFEZISbtyLk/hG0S/yvETEp3mb
+Ez6ujFmxPwoxy3aoGKEgpJibtOOOFIECSTzbl4TIhIqhQaCEJFaesF0Ws32EqmsG
+EMt/hqWEJOSWyMe5rBkWUhHSic6oBhHCFuYYKjrmsklMkRFoIpuBTSIOJhKJAVaJ
+JvmZNjlxKYKETVwoJJN2oYO9UpdJlS23osMCaZmBEcOH+F8rkDky+PfDfb6d/it6
+9dizfLvq2b3HOWPHRPOy954/DIq/NCzL6rhRUXJm2/cZqcbP93+mz8zLWdvdeby0
+p7ZrYMTN3izn+dv803du6S0NfQ+r84Ax8X3uAjjhJFAzi2Z9WH03/9uqSXsWX7tw
+anYiWfWhNnyuqe7QlC1u09ZFw/cdfDGwffrant6+arRzyfcKt84Ov+lZHi07uru9
+ae6Zlf2pH92PpH3vxn8MOrHqgpJxD3Z97WyPdtvX2rsuTnt6/UDW6oXrz1963dq2
+ru0Tfztq0+zL7pJgToY3JPimfH+fsyg0sSZ7oKp/fl5zVe7UUy+vlGfkvgLHzx16
+dXZH3ZOgMfnXwIo5jaPrr8/LoPU19m+VIUhz
+=T9Ac
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chaman
+
+==================================================================
