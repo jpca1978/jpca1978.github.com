@@ -18,15 +18,15 @@ Thanks to these experiences, I have had the opportunity to get to know technolog
 
 That's why I want to tell you two secrets that very few people in this industry dare to say in public:
 
-#First: One of the things that surprised me the most when I first started working is that there are people within the senior care industry who refer to it with contempt. I have heard executives of large companies in Spain call it a “crappy industry”.
+**First:** One of the things that surprised me the most when I first started working is that there are people within the senior care industry who refer to it with contempt. I have heard executives of large companies in Spain call it a “crappy industry”.
 
-#Second: On the other hand, I have learned about organizations and companies that are fully committed to improving the quality of life of the elderly, as well as the working conditions in their organization. There are true leaders in this sector with a service vocation that is outstanding.
+**Second:** On the other hand, I have learned about organizations and companies that are fully committed to improving the quality of life of the elderly, as well as the working conditions in their organization. There are true leaders in this sector with a service vocation that is outstanding.
 
 My conclusion is that there are two types of leaders in businesses specializing in senior care.
 
-#The bulls: This type of leader sees senior citizens from the point of view of the services. They want to be remembered for the volume of sales and the amount of money they accumulated while they managed the business. They understand growth as a short-term goal. They are defensive and averse to change wen they find the right financial formula.
+**The bulls:** This type of leader sees senior citizens from the point of view of the services. They want to be remembered for the volume of sales and the amount of money they accumulated while they managed the business. They understand growth as a short-term goal. They are defensive and averse to change wen they find the right financial formula.
 
-#The unicorns: This type of leader thinks about their services and business from the point of view of senior citizens. They want to transform society and be remembered for this legacy. They understand growth as a path to a long-term goal. They take initiative and in favor of change.
+**The unicorns:** This type of leader thinks about their services and business from the point of view of senior citizens. They want to transform society and be remembered for this legacy. They understand growth as a path to a long-term goal. They take initiative and in favor of change.
 
 Of course, there are nuances of bulls and unicorns, even in organizations whose primary focus is on profits. It is healthy to have both kinds of leaders in an organization to bring balance. Nevertheless, this does not seem to be the usual case. Often the staff, assistants and caregivers working in these companies are the everyday heroes who, through their personal commitment, make up for the lack of empathy and compassion on the part of management positions. 
 
