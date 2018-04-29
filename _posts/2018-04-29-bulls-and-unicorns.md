@@ -1,13 +1,13 @@
 ---
-title: 'Bulls and unicorns: Leadershup in senior care business'
+date: '2018-04-29 22:10'
+description: 
 layout: post
 blog: true
-tags:
-  - 'Senior care'
-  - ' innovation'
+tag: 'Senior care'
+title: 'Bulls and unicorns: Leadershup in senior care business'
+tags: []
 category: 
 ---
-# Bulls and unicorns: Leadership in senior care business
 
 [![bulls and unicorns](http://gdurl.com/Xihs "bulls and unicorns")](http://gdurl.com/Xihs "bulls and unicorns")
 If you are the director of a health or social care organization, pay close attention.
