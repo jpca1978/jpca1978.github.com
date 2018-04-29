@@ -2,7 +2,7 @@
 title: 'Bulls and unicorns: Leadershup in senior care business'
 layout: post
 tags:
-  - 'Tenior care'
+  - 'Senior care'
   - ' innovation'
 category: 
 ---
