@@ -1,13 +1,15 @@
 ---
-date: '2016-08-02 22:10'
-description: 'Knowing where you are from might be important but for me it is more important to try to be authentic, being aware that my values and culture depend on the context which I decide to be part of.'
+title: From the land of drunkards
+date: 2016-08-02 22:10:00 Z
+tags:
+- national identity
+description: Knowing where you are from might be important but for me it is more important
+  to try to be authentic, being aware that my values and culture depend on the context
+  which I decide to be part of.
 layout: post
 blog: true
-tag: national identity
-title: 'From the land of drunkards'
-tags: []
-category: 
 ---
+
 Where are you from?
 
 This question bothers me. But what bothered me even more was a comment from a well-intentioned boss who, commented on my physical appearance and skin color with the words: 

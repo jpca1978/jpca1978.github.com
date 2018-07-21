@@ -1,13 +1,13 @@
 ---
-title: 'How blockchain could contribute to the peace process in Colombia'
+title: How blockchain could contribute to the peace process in Colombia
+date: 2016-07-23 22:10:00 Z
+tags:
+- colombia blockchain
 layout: post
-date: '2016-07-23 22:10'
-tag: 'colombia blockchain'
 img: indigo/indigo.png
 projects: true
-description: 'A solution to tackling the lack of a reliable system that guarantees rural land ownership rights in Colombia is the use of blockchain technology'
-tags: 'colombia, blockchain'
-category: null
+description: A solution to tackling the lack of a reliable system that guarantees
+  rural land ownership rights in Colombia is the use of blockchain technology
 ---
 
 In 2007, I left Colombia, my home country, with a feeling of helplessness about the seemingly endless conflict. Now, with the peace process and the first agreements between the FARC and the government, it seems that we can expect a better future for the new generations of Colombians. Even though many Colombians are still skeptical about the peace process, we know that the future depends on the execution of a plan where all members of the society can participate. Rural land ownership rights is one of the many historical unsolved issues in Colombia. This problem is one of the causes and an effects of conflict in Colombia.  A solution to tackling the lack of a reliable system that guarantees rural land ownership rights in Colombia is the use of blockchain technology.

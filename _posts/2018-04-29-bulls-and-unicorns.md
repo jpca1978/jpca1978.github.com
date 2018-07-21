@@ -1,12 +1,11 @@
 ---
-date: '2018-04-29 22:10'
+title: 'Bulls and unicorns: Leadershup in senior care business'
+date: 2018-04-29 22:10:00 Z
+tags:
+- Senior care
 description: 
 layout: post
 blog: true
-tag: 'Senior care'
-title: 'Bulls and unicorns: Leadershup in senior care business'
-tags: []
-category: 
 ---
 
 [![bulls and unicorns](http://gdurl.com/Xihs "bulls and unicorns")](http://gdurl.com/Xihs "bulls and unicorns")

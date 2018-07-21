@@ -1,12 +1,12 @@
 ---
-date: '2026-08-24 22:10'
+title: New Syrian government implements blockchain titulation system to heal the wounds
+  of war
+date: 2026-08-24 22:10:00 Z
+tags:
+- futuristic press release
 description: 
 layout: post
 blog: true
-tag: 'futuristic press release'
-title: 'New Syrian government implements blockchain titulation system to heal the wounds of war'
-tags: []
-category: 
 ---
 
 > “Today we live in a society in which spurious realities are manufactured by the media, by governments, by big corporations, by religious groups, political groups... So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudo-realities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing.” 

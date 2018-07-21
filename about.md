@@ -1,8 +1,9 @@
 ---
 title: About
+permalink: "/about/index.html"
 layout: page
-permalink: /about/index.html
 ---
+
 I enjoy planning and being part of development of business that deal with the following questions:
 
 - How to live better with a longer life expectancy?
